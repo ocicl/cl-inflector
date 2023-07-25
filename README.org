@@ -1,0 +1,10 @@
+* cl-inflector
+
+A port of rails' inflector to common lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/AccelerationNet/cl-inflector.git   |
+| commit  | f1ab169  |
+| systems | cl-inflector |
+|---------+-------------------------------------------|
+
