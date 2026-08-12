@@ -8,4 +8,4 @@ A port of rails' inflector to common lisp
 | systems | cl-inflector |
 |---------+-------------------------------------------|
 
- 
+  
